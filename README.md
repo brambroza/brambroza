@@ -4,29 +4,33 @@ I’m a full-stack programmer with a passion for building impactful software —
 
 ## 🔧 Skills & Tools
 
-- 🌐 **Web Applications**: ASP.NET Core • React • Blazor • Tailwind CSS • SQL Server
-- 📱 **Mobile Apps**: Xamarin • Flutter • Kotlin • Swift
-- 💻 **Windows Applications**: WPF • WinForms • Electron • C#
+- 🌐 **Web Applications**: React • Node.js • ASP.NET Core • React • MUI • Tailwind CSS • SQL Server
+- 📱 **Mobile Apps**:  Flutter • Kotlin • Java • Swift
+- 💻 **Windows Applications**: WPF • WinForms • C# • Devexpress
 - 🛠️ **DevOps & Infrastructure**: Docker • GitHub Actions • Hyper-V • WSL2
-- 📡 **APIs & Automation**: Twilio • Slack API • RESTful & Webhooks
+- 📡 **APIs & Automation**: RESTful • Webhooks • Socket.io • SignalR
 
-## 🚀 What I’m Working On
+## 🚀 Projects & Focus
 
-- Automating network service workflows using OCR & ML
-- Integrating messaging APIs for seamless customer communication
-- Exploring software startup opportunities in Thailand 🇹🇭
-- Designing scalable database systems for enterprise clients
+- 🧠 Automation with OCR + Machine Learning  
+- 📲 Communication Integration via Messaging APIs  
+- 🏢 Tech Startup Strategies in Thailand  
+- 🗃️ Scalable Database Design for Enterprise Services  
 
-## 📊 I Love
+---
 
-- Problem-solving complex system errors (yes, including those pesky SQL replication issues)
-- Exploring high-resolution monitors for dev productivity
-- Strategizing around tech entrepreneurship and market trends
+## 📊 GitHub Stats & Activity
+
+![Amnart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_rank=false&count_private=true&hide=issues&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=radical)
 
 ## 🤝 Let’s Connect
 
 - 💬 Ask me about automation, API integrations, or building scalable apps
-- 📬 Connect via [LinkedIn](https://www.linkedin.com) or drop a message on WhatsApp
+- 📬 Connect via [LinkedIn](https://www.linkedin.com/in/amnart-kongpet-650317192/) or [instagram](https://www.instagram.com/seranoh2303/) 
 
 ---
 
