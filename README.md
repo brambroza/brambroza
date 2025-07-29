@@ -12,8 +12,6 @@ I’m a full-stack programmer with a passion for building impactful software —
 
 ## 🚀 Projects & Focus
 
-- 🧠 Automation with OCR + Machine Learning  
-- 📲 Communication Integration via Messaging APIs  
 - 🏢 Tech Startup Strategies in Thailand  
 - 🗃️ Scalable Database Design for Enterprise Services  
 
