@@ -21,7 +21,20 @@ I’m a full-stack programmer with a passion for building impactful software —
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brambroza&layout=compact&theme=radical)
 
 ![Amnart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brambroza&show_icons=true&hide_title=true&hide_rank=false&count_private=true&hide=issues&theme=radical)
- 
+
+## 📊 GitHub Stats & Languages
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brambroza&layout=compact&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=brambroza&show_icons=true&hide_title=true&hide_rank=false&count_private=true&hide=issues&theme=radical" />
+    </td>
+  </tr>
+</table>
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brambroza&theme=radical)
 
 
