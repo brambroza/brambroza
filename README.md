@@ -16,6 +16,9 @@ I’m a full-stack programmer with a passion for building impactful software —
 - 🗃️ Scalable Database Design for Enterprise Services  
 
 ---
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brambroza&layout=compact&theme=radical)
 
 ## 🤝 Let’s Connect
 
