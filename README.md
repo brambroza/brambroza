@@ -1,16 +1,18 @@
-## Hi there 👋
+# ชื่อของคุณ
 
-<!--
-**brambroza/brambroza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ยินดีต้อนรับสู่โปรไฟล์ของฉัน!
 
-Here are some ideas to get you started:
+## เกี่ยวกับฉัน
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ฉันเป็นนักพัฒนาซอฟต์แวร์ที่มีความสนใจใน ...
+
+## ทักษะ
+
+-  ภาษาโปรแกรม: Python, JavaScript
+-  เทคโนโลยี:  React, Node.js
+-  ฐานข้อมูล:  PostgreSQL, MongoDB
+
+## ติดต่อฉัน
+
+*   อีเมล: [your_email@example.com](mailto:your_email@example.com)
+*   GitHub: [https://github.com/your_username](https://github.com/your_username)
