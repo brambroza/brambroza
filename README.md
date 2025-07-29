@@ -20,7 +20,7 @@ I’m a full-stack programmer with a passion for building impactful software —
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brambroza&layout=compact&theme=radical" alt="GitHub Stats" style="display: inline-block;" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api?username=brambroza&show_icons=true&hide_title=true&hide_rank=false&count_private=true&hide=issues&theme=radical)" alt="Top Langs" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brambroza&show_icons=true&hide_title=true&hide_rank=false&count_private=true&hide=issues&theme=radical" alt="Top Langs" style="display: inline-block;" />
 </p>
  
 
