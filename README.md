@@ -20,6 +20,9 @@ I’m a full-stack programmer with a passion for building impactful software —
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brambroza&layout=compact&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brambroza&layout=compact&hide=html,css&theme=tokyonight)
+
+
 ## 🤝 Let’s Connect
 
 - 💬 Ask me about automation, API integrations, or building scalable apps
