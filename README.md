@@ -19,19 +19,11 @@ I’m a full-stack programmer with a passion for building impactful software —
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-![Amnart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_rank=false&count_private=true&hide=issues&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=radical)
-
 ## 🤝 Let’s Connect
 
 - 💬 Ask me about automation, API integrations, or building scalable apps
 - 📬 Connect via [LinkedIn](https://www.linkedin.com/in/amnart-kongpet-650317192/) or [instagram](https://www.instagram.com/seranoh2303/) 
-
+- lineId : brambroza
 ---
 
 _“Technology should make life easier — and that's what I build for.”_
