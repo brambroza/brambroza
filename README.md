@@ -8,7 +8,8 @@ I’m a full-stack programmer with a passion for building impactful software —
 - 📱 **Mobile Apps**:  Flutter • Kotlin • Java • Swift
 - 💻 **Windows Applications**: WPF • WinForms • C# • Devexpress
 - 🛠️ **DevOps & Infrastructure**: Docker • GitHub Actions • Hyper-V • WSL2
-- 📡 **APIs & Automation**: RESTful • Webhooks • Socket.io • SignalR
+- 📡 **APIs & Automation**: RESTful • Webhooks • Socket.io • SignalR • n8n
+- 🖥️ **Monitor** : Grafana • Zabbix ( Server , Agent , Proxy)
 
 ## 🚀 Projects & Focus
 
