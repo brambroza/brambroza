@@ -4,7 +4,7 @@ I’m a full-stack programmer with a passion for building impactful software —
 
 ## 🔧 Skills & Tools
 
-- 🌐 **Web Applications**: React • Node.js • ASP.NET Core • React • MUI • Tailwind CSS • SQL Server
+- 🌐 **Web Applications**: TypeScript • React • Nextjs • Node.js • ASP.NET Core • React • MUI • Tailwind CSS • SQL Server
 - 📱 **Mobile Apps**:  Flutter • Kotlin • Java • Swift
 - 💻 **Windows Applications**: WPF • WinForms • C# • Devexpress
 - 🛠️ **DevOps & Infrastructure**: Docker • GitHub Actions • Jenkins • Hyper-V • WSL2
