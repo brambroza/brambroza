@@ -1,21 +1,67 @@
-# Amnart Kongpet (Noh)
+# Hi there 👋 I'm Amnart
 
-I’m a full-stack programmer with a passion for building impactful software — from enterprise web applications, sleek mobile experiences, to robust Windows desktop tools.
+Full-Stack Software Engineer focused on building scalable business applications, SaaS platforms, enterprise systems, and automation solutions.
 
-## 🔧 Skills & Tools
+I enjoy turning complex business requirements into reliable software products that help organizations improve operations and grow efficiently.
 
-- 🌐 **Web Applications**: TypeScript • React • Nextjs • Node.js • ASP.NET Core • React • MUI • Tailwind CSS 
-- 📱 **Mobile Apps**:  Flutter • Kotlin • Java • Swift
-- 💻 **Windows Applications**: WPF • WinForms • C# • Devexpress
-- 🛠️ **DevOps & Infrastructure**: Docker • GitHub Actions • Jenkins • Hyper-V • WSL2
-- 📡 **APIs & Automation**: RESTful • Webhooks • Socket.io • SignalR • n8n
-- 🖥️ **Monitor** : Grafana • Zabbix ( Server , Agent , Proxy)
-- 📊 **Database** : Postgresql • MSSQL Server • MySQL • Supabase 
+## 🚀 Tech Stack
 
-## 🚀 Projects & Focus
+### Frontend
+TypeScript • React • Next.js • MUI • Tailwind CSS
 
-- 🏢 Tech Startup Strategies in Thailand  
-- 🗃️ Scalable Database Design for Enterprise Services  
+### Backend
+ASP.NET Core • Node.js • REST APIs • SignalR • Socket.IO
+
+### Mobile
+Flutter • Kotlin • Java • Swift
+
+### Desktop
+C# • WPF • WinForms • DevExpress
+
+### Database
+PostgreSQL • Microsoft SQL Server • MySQL • Supabase
+
+### DevOps & Infrastructure
+Docker • GitHub Actions • Jenkins • Linux • Hyper-V • WSL2
+
+### Monitoring
+Grafana • Zabbix
+
+### Automation & Integration
+Webhooks • n8n • API Integration • Real-time Systems
+
+---
+
+## 🎯 Current Focus
+
+- Enterprise Software Development
+- CRM / ERP Systems
+- SaaS Platforms
+- AI-Powered Business Automation
+- System Integration & Workflow Automation
+- Cloud Infrastructure & DevOps
+
+---
+
+## 🌱 Currently Building
+
+- Business Management Platforms
+- CRM & ERP Solutions
+- LINE OA Automation Systems
+- AI Agents & Workflow Automation
+- Booking & Queue Management Platforms
+
+---
+
+## 📫 Connect With Me
+
+- Website: https://go-along.co
+- LinkedIn: Your LinkedIn URL
+- Email: your@email.com
+
+---
+
+> Building software that solves real business problems.
 
 ---
 ## 📊 GitHub Languages & Stats 
