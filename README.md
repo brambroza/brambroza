@@ -55,9 +55,7 @@ Webhooks • n8n • API Integration • Real-time Systems
 
 ## 📫 Connect With Me
 
-- Website: https://go-along.co
-- LinkedIn: Your LinkedIn URL
-- Email: your@email.com
+- Email: amnart.gl@gmail.com
 
 ---
 
